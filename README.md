@@ -15,11 +15,11 @@ docker run -d -p 3000:3000 sick-cat-dog-api:latest
 ### Install dependencies
 
 ```bash
-$ npm install 
+npm install 
 ```
 
 ### Run app
 
 ```bash
-$ npm run start 
+npm run start 
 ```
